@@ -1,1 +1,1 @@
-# Bayesian-Statistics
+# Bayesian-Statistics Mixture Models
